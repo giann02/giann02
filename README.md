@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giann02&label=Profile%20views&color=0e75b6&style=flat" alt="giann02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giann02" alt="giann02" /></a> </p>
-
 - 🔭 I’m currently working on [Library Project](https://github.com/giann02/Library-Project)
 
 - 🌱 I’m currently learning **Microservices,MongoDB**
