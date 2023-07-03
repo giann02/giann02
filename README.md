@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giann02&label=Profile%20views&color=0e75b6&style=flat" alt="giann02" /> </p>
 
-- 🔭 I’m currently working on [Netflix Microservices Project](https://github.com/giann02/Library-Project](https://github.com/giann02/Project-Netflix-Microservices)
+- 🔭 I’m currently working on [Netflix Microservices Project](https://github.com/giann02/Project-Netflix-Microservices)
 
 - 🌱 I’m currently learning **Microservices,MongoDB**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gianlucapanigatti02@gmail.com**
 
-- 📄 Know about my experiences I started studying Computer Engineering at UCA (Argentine Catholic University) in 2021, where I learned Python. In 2022, I obtained a scholarship from Mercado Libre and Globant to pursue the Certified Tech Developer program offered by Digital House. In the first year, I learned HTML, CSS, JavaScript, Java, Spring, MySQL, Testing, AWS, and Docker. Currently, I'm in the second year, where I'm studying microservices and MongoDB, and I'm also working on freelance projects.
+- 📄 Know about my experiences [I started studying Computer Engineering at UCA (Argentine Catholic University) in 2021, where I learned Python. In 2022, I obtained a scholarship from Mercado Libre and Globant to pursue the Certified Tech Developer program offered by Digital House. In the first year, I learned HTML, CSS, JavaScript, Java, Spring, MySQL, Testing, AWS, and Docker. Currently, I'm in the second year, where I'm studying microservices and MongoDB, and I'm also working on freelance projects.](I started studying Computer Engineering at UCA (Argentine Catholic University) in 2021, where I learned Python. In 2022, I obtained a scholarship from Mercado Libre and Globant to pursue the Certified Tech Developer program offered by Digital House. In the first year, I learned HTML, CSS, JavaScript, Java, Spring, MySQL, Testing, AWS, and Docker. Currently, I'm in the second year, where I'm studying microservices and MongoDB, and I'm also working on freelance projects.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
