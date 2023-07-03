@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giann02&label=Profile%20views&color=0e75b6&style=flat" alt="giann02" /> </p>
 
-- 🔭 I’m currently working on [Library Project](https://github.com/giann02/Library-Project)
+- 🔭 I’m currently working on [Netflix Microservices Project](https://github.com/giann02/Library-Project](https://github.com/giann02/Project-Netflix-Microservices)
 
 - 🌱 I’m currently learning **Microservices,MongoDB**
 
